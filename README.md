@@ -1,1 +1,1 @@
-![alt text](img/night.png)
+![alt text](img/night.gif)
